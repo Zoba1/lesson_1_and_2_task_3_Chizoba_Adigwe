@@ -51,6 +51,7 @@ table {
 
 /* Write your css below here */
 img{
-	height: 80px;
-	width: 80px;
+	height: 300px;
+	width: 300px;
+	margin-left: 500px;
 }
